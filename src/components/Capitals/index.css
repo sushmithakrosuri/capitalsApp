@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #f8fafc;
+  height: 50%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  font-family: 'Roboto';
+}
+.heading {
+  color: #000000;
+}
+.input-box {
+  display: flex;
+  font-weight: bold;
+}
+.paragraph {
+  margin-left: 10px;
+  color: #323f4b;
+}
+.answer {
+  color: #1e293b;
+  font-size: 30px;
+  font-weight: bold;
+}
+.capital {
+  color: #000000;
+  font-size: 20px;
+  font-weight: bold;
+}
